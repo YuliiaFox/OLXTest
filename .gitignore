@@ -61,5 +61,4 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
-.gitignore
-.idea/inspectionProfiles/
+.idea
